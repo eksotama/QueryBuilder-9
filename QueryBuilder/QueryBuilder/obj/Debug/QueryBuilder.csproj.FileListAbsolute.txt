@@ -1,0 +1,54 @@
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.exe.config
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.exe
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.pdb
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormColumnSelection.resources
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.FormConnectServer.resources
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Properties.Resources.resources
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.csproj.GenerateResource.Cache
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.exe
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.pdb
+C:\Users\JackyNguyen\documents\visual studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.csprojResolveAssemblyReference.cache
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormSplash.resources
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormCriteriaAnd.resources
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormJoin.resources
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.CustomControl.Table.resources
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Debug\Core.dll
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Debug\Core.pdb
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.exe.config
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.exe
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.pdb
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.exe
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.pdb
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\bin\Debug\Core.dll
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\bin\Debug\Core.pdb
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.csprojResolveAssemblyReference.cache
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.CustomControl.Table.resources
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormColumnSelection.resources
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.FormConnectServer.resources
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormCriteriaAnd.resources
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormJoin.resources
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormSplash.resources
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Properties.Resources.resources
+C:\Users\JackyNguyen\Desktop\Repository\QueryBuilder\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.exe.config
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.exe
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\bin\Debug\QueryBuilder.pdb
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\bin\Debug\Core.dll
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\bin\Debug\Core.pdb
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.CustomControl.Table.resources
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormColumnSelection.resources
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.FormConnectServer.resources
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormCriteriaAnd.resources
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormJoin.resources
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Forms.FormSplash.resources
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.Properties.Resources.resources
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.exe
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\QueryBuilder\obj\Debug\QueryBuilder.pdb

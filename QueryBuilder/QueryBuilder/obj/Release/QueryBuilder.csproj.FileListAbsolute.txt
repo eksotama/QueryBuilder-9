@@ -1,0 +1,13 @@
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Release\QueryBuilder.exe.config
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Release\QueryBuilder.exe
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Release\QueryBuilder.pdb
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Release\QueryBuilderLib.dll
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\bin\Release\QueryBuilderLib.pdb
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Release\QueryBuilder.csprojResolveAssemblyReference.cache
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Release\QueryBuilder.Forms.FormColumnSelection.resources
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Release\QueryBuilder.FormConnectServer.resources
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Release\QueryBuilder.Forms.FormSplash.resources
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Release\QueryBuilder.Properties.Resources.resources
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Release\QueryBuilder.csproj.GenerateResource.Cache
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Release\QueryBuilder.exe
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\QueryBuilder\obj\Release\QueryBuilder.pdb

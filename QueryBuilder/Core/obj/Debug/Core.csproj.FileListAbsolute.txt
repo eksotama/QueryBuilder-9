@@ -1,0 +1,8 @@
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\Core\bin\Debug\Core.dll
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\Core\bin\Debug\Core.pdb
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\Core\obj\Debug\Core.dll
+C:\Users\JackyNguyen\Documents\Visual Studio 2012\Projects\QueryBuilder\Core\obj\Debug\Core.pdb
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\Core\bin\Debug\Core.dll
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\Core\bin\Debug\Core.pdb
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\Core\obj\Debug\Core.dll
+C:\Users\Jacky\Desktop\ngunha02-querydesigner-2b00222fe288\ngunha02-querydesigner-2b00222fe288\QueryBuilder\Core\obj\Debug\Core.pdb
